@@ -2,8 +2,7 @@ public class Drink {
     String name;
     double price;
     boolean alcohol;
-    Ingredient ingredient = new Ingredient();
-
-    //Ingredient ingredient= new Ingredient(); //wersja 1 - składniki def w main
-    //Mohito mohito = new Mohito(); //wersja 2 wszystkie skłądniki w klasie
+    Ingredient ingredient1 = new Ingredient();
+    Ingredient ingredient2 = new Ingredient();
+    Ingredient ingredient3 = new Ingredient();
 }
